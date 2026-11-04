@@ -14,19 +14,30 @@ Ferramentas utilizadas:
 - DAX
 - Power Query
 
+Resultados e análises
+O dashboard permite acompanhar o desempenho comercial da Nexora Tech por meio de indicadores de faturamento, lucro, margem de lucro e quantidade de vendas.
+
 Indicadores (KPIs):
-- Faturamento total
-- Lucro total
-- Margem de lucro
-- Quantidade de vendas
-- Ticket médio
+- Faturamento total: R$ 1.046.227,80.
+- Lucro total:  R$ 301.287,80.
+- Margem de lucro: 28,80%
+- Quantidade de vendas: 622
 
 Análises desenvolvidas:
 - Faturamento por período
-- Vendas por produto
+- Comparação do faturamento anual.
 - Desempenho por vendedor
-- Vendas por estado
-- Análise por categoria
+- Distribuição das vendas por região.
+- Acompanhamento dos indicadores de faturamento, lucro, margem de lucro e quantidade vendida.
+
+Aprendizados:
+Durante o desenvolvimento deste projeto, foram praticados conceitos de:
+- Tratamento e organização de dados.
+- Relacionamento entre tabelas.
+- Criação de medidas utilizando DAX.
+- Desenvolvimento de indicadores de desempenho (KPIs).
+- Construção de dashboards interativos.
+- Análise e interpretação de dados comerciais.
 
 Status do projeto:
 Em desenvolvimento
