@@ -1,4 +1,5 @@
 Projeto 01 – Dashboard Comercial | Nexora Tech
+![Dashboard Comercial Nexora Tech](dashboard.png)
 
 Sobre o projeto:
 Projeto de análise de dados comerciais desenvolvido com Power BI, Excel e DAX, utilizando uma empresa fictícia do setor de tecnologia.
