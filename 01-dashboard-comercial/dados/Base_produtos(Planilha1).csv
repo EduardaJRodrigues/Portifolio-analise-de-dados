@@ -1,0 +1,51 @@
+id_produto;nome_produto;preco_unitario;custo_unitario;id_categoria
+PR001;Notebook Pro 14;5.499,90;4.000,00;CAT01
+PR002;Notebook Ultra 15;6.799,90;5.000,00;CAT01
+PR003;Notebook Business 13;4.299,90;3.200,00;CAT01
+PR004;Desktop Workstation;7.899,90;6.000,00;CAT01
+PR005;Computador Empresarial;3.899,90;2.900,00;CAT01
+PR006;"Monitor LED 24""";899,9;600;CAT02
+PR007;"Monitor UltraWide 29""";1.799,90;1.250,00;CAT02
+PR008;"Monitor Gamer 27""";2.299,90;1.600,00;CAT02
+PR009;Teclado Mecânico RGB;349,9;220;CAT02
+PR010;Teclado Sem Fio;179,9;110;CAT02
+PR011;Mouse Óptico USB;59,9;30;CAT02
+PR012;Mouse Sem Fio Pro;149,9;90;CAT02
+PR013;Headset Corporativo;299,9;180;CAT03
+PR014;Headset Gamer 7.1;499,9;320;CAT03
+PR015;Webcam Full HD;249,9;150;CAT03
+PR016;Webcam 4K Pro;699,9;450;CAT03
+PR017;Microfone USB Condensador;399,9;250;CAT03
+PR018;Caixa de Som Bluetooth;229,9;140;CAT03
+PR019;Dock Station USB-C;599,9;380;CAT04
+PR020;Hub USB 7 Portas;189,9;110;CAT04
+PR021;SSD 500 GB;299,9;190;CAT05
+PR022;SSD 1 TB;499,9;320;CAT05
+PR023;HD Externo 2 TB;579,9;380;CAT05
+PR024;Memória RAM 16 GB;289,9;180;CAT06
+PR025;Memória RAM 32 GB;549,9;350;CAT06
+PR026;Placa de Vídeo RTX Pro;4.999,90;3.900,00;CAT06
+PR027;Processador Core i7;2.199,90;1.650,00;CAT06
+PR028;Processador Ryzen 7;1.899,90;1.400,00;CAT06
+PR029;Placa-Mãe Business;1.099,90;800;CAT06
+PR030;Fonte de Alimentação 750W;699,9;480;CAT06
+PR031;Roteador Wi-Fi 6;499,9;320;CAT07
+PR032;Roteador Empresarial AX3000;899,9;600;CAT07
+PR033;Switch de Rede 16 Portas;749,9;500;CAT07
+PR034;Switch Gerenciável 24 Portas;1.899,90;1.350,00;CAT07
+PR035;Access Point Corporativo;699,9;450;CAT07
+PR036;Nobreak 1200 VA;899,9;620;CAT08
+PR037;Nobreak 2200 VA;1.699,90;1.200,00;CAT08
+PR038;Impressora Multifuncional Laser;1.499,90;1.050,00;CAT09
+PR039;Scanner de Documentos;1.199,90;850;CAT09
+PR040;Projetor Full HD;2.499,90;1.800,00;CAT03
+PR041;Tablet Empresarial;2.199,90;1.600,00;CAT10
+PR042;Smartphone Corporativo;2.899,90;2.100,00;CAT10
+PR043;Smartwatch Business;899,9;600;CAT10
+PR044;Servidor Rack Empresarial;14.999,90;11.500,00;CAT11
+PR045;Servidor de Armazenamento NAS;4.499,90;3.300,00;CAT11
+PR046;Licença Antivírus Empresarial;199,9;80;CAT12
+PR047;Licença Microsoft 365 Business;699,9;400;CAT12
+PR048;Licença Software CRM;1.299,90;700;CAT12
+PR049;Licença Software ERP;2.499,90;1.400,00;CAT12
+PR050;Licença Software BI;1.799,90;950;CAT12
