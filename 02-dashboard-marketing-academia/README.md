@@ -57,6 +57,7 @@ Dashboard
 
 
 Visão Geral
+
 <img src="imagens/visao-geral.png" width="850">
 
 
