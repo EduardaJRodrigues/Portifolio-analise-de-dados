@@ -1,0 +1,487 @@
+id_cancelamento;id_cliente;Data do cancelamento;Plano;Motivo do cancelamento
+CANC01;1245;terça-feira, 22 de setembro de 2026;P02;Falta de resultados
+CANC02;3968;sexta-feira, 03 de abril de 2026;P01;Falta de resultados
+CANC03;1176;sábado, 28 de novembro de 2026;P01;Falta de resultados
+CANC04;6905;sexta-feira, 16 de outubro de 2026;P01;Falta de resultados
+CANC05;1987;quinta-feira, 18 de junho de 2026;P02;Falta de resultados
+CANC06;5255;quinta-feira, 16 de julho de 2026;P02;Falta de resultados
+CANC07;5302;terça-feira, 12 de maio de 2026;P01;Falta de resultados
+CANC08;11084;sábado, 15 de agosto de 2026;P02;Falta de resultados
+CANC09;375;domingo, 19 de abril de 2026;P01;Falta de resultados
+CANC10;524;quinta-feira, 21 de maio de 2026;P01;Falta de resultados
+CANC11;448;terça-feira, 25 de agosto de 2026;P02;Falta de resultados
+CANC12;304;quarta-feira, 07 de janeiro de 2026;P02;Falta de resultados
+CANC13;4967;terça-feira, 17 de novembro de 2026;P04;Falta de resultados
+CANC14;10104;segunda-feira, 02 de março de 2026;P01;Falta de resultados
+CANC15;10643;segunda-feira, 09 de fevereiro de 2026;P02;Falta de resultados
+CANC16;4507;quinta-feira, 03 de setembro de 2026;P01;Falta de resultados
+CANC17;2118;sexta-feira, 08 de maio de 2026;P02;Falta de resultados
+CANC18;1453;sábado, 03 de janeiro de 2026;P02;Falta de resultados
+CANC19;2727;segunda-feira, 22 de junho de 2026;P01;Falta de resultados
+CANC20;4603;segunda-feira, 30 de novembro de 2026;P02;Falta de resultados
+CANC21;3524;sexta-feira, 31 de julho de 2026;P02;Falta de resultados
+CANC22;9014;segunda-feira, 20 de julho de 2026;P04;Falta de resultados
+CANC23;8659;quinta-feira, 19 de novembro de 2026;P02;Falta de resultados
+CANC24;10413;quinta-feira, 11 de junho de 2026;P01;Falta de resultados
+CANC25;9265;segunda-feira, 27 de abril de 2026;P03;Falta de resultados
+CANC26;286;quarta-feira, 22 de julho de 2026;P02;Falta de resultados
+CANC27;11010;terça-feira, 14 de julho de 2026;P02;Falta de resultados
+CANC28;3083;domingo, 18 de outubro de 2026;P02;Falta de resultados
+CANC29;1137;quinta-feira, 10 de setembro de 2026;P01;Falta de resultados
+CANC30;1183;sexta-feira, 05 de junho de 2026;P01;Falta de resultados
+CANC31;5147;sexta-feira, 23 de janeiro de 2026;P01;Falta de resultados
+CANC32;5247;sábado, 21 de março de 2026;P02;Falta de resultados
+CANC33;9396;sexta-feira, 30 de janeiro de 2026;P01;Preço alto
+CANC34;238;domingo, 31 de maio de 2026;P02;Preço alto
+CANC35;5313;sábado, 07 de março de 2026;P04;Preço alto
+CANC36;7297;quarta-feira, 28 de outubro de 2026;P03;Preço alto
+CANC37;5232;domingo, 07 de junho de 2026;P01;Preço alto
+CANC38;1440;segunda-feira, 16 de março de 2026;P02;Preço alto
+CANC39;10858;terça-feira, 13 de outubro de 2026;P02;Preço alto
+CANC40;4690;quarta-feira, 22 de abril de 2026;P02;Preço alto
+CANC41;6422;quinta-feira, 10 de setembro de 2026;P01;Preço alto
+CANC42;5680;sexta-feira, 27 de fevereiro de 2026;P01;Preço alto
+CANC43;7264;sábado, 17 de outubro de 2026;P01;Preço alto
+CANC44;8932;segunda-feira, 16 de novembro de 2026;P02;Preço alto
+CANC45;460;sexta-feira, 04 de dezembro de 2026;P01;Preço alto
+CANC46;6349;quinta-feira, 01 de outubro de 2026;P01;Preço alto
+CANC47;5299;sexta-feira, 11 de setembro de 2026;P02;Preço alto
+CANC48;2315;sexta-feira, 26 de junho de 2026;P01;Preço alto
+CANC49;8566;terça-feira, 26 de maio de 2026;P01;Preço alto
+CANC50;3667;sábado, 05 de setembro de 2026;P01;Preço alto
+CANC51;8746;quinta-feira, 09 de julho de 2026;P03;Preço alto
+CANC52;9888;sexta-feira, 31 de julho de 2026;P01;Preço alto
+CANC53;2495;sábado, 16 de maio de 2026;P01;Preço alto
+CANC54;10031;sexta-feira, 06 de novembro de 2026;P02;Preço alto
+CANC55;8724;terça-feira, 14 de julho de 2026;P03;Preço alto
+CANC56;5025;quinta-feira, 03 de dezembro de 2026;P01;Preço alto
+CANC57;4673;sexta-feira, 10 de abril de 2026;P02;Mudança de cidade
+CANC58;7414;sexta-feira, 24 de julho de 2026;P02;Mudança de cidade
+CANC59;10478;quarta-feira, 02 de setembro de 2026;P02;Mudança de cidade
+CANC60;7224;terça-feira, 23 de junho de 2026;P03;Mudança de cidade
+CANC61;3645;quinta-feira, 18 de junho de 2026;P02;Mudança de cidade
+CANC62;236;segunda-feira, 11 de maio de 2026;P03;Mudança de cidade
+CANC63;5424;sábado, 30 de maio de 2026;P03;Mudança de cidade
+CANC64;8275;terça-feira, 24 de novembro de 2026;P01;Mudança de cidade
+CANC65;2656;domingo, 04 de janeiro de 2026;P01;Mudança de cidade
+CANC66;6634;sexta-feira, 08 de maio de 2026;P01;Mudança de cidade
+CANC67;1139;sexta-feira, 21 de agosto de 2026;P01;Mudança de cidade
+CANC68;8789;terça-feira, 17 de novembro de 2026;P02;Mudança de cidade
+CANC69;3005;segunda-feira, 15 de junho de 2026;P01;Mudança de cidade
+CANC70;6931;sexta-feira, 02 de janeiro de 2026;P01;Mudança de cidade
+CANC71;7094;quarta-feira, 18 de fevereiro de 2026;P01;Mudança de cidade
+CANC72;9292;segunda-feira, 25 de maio de 2026;P01;Mudança de cidade
+CANC73;1876;segunda-feira, 19 de outubro de 2026;P01;Mudança de cidade
+CANC74;10757;terça-feira, 03 de novembro de 2026;P01;Mudança de cidade
+CANC75;4427;sábado, 18 de abril de 2026;P01;Mudança de cidade
+CANC76;3386;sexta-feira, 17 de abril de 2026;P02;Mudança de cidade
+CANC77;7431;terça-feira, 24 de fevereiro de 2026;P01;Mudança de cidade
+CANC78;9504;quinta-feira, 19 de março de 2026;P01;Mudança de cidade
+CANC79;5929;domingo, 05 de julho de 2026;P02;Mudança de cidade
+CANC80;4368;segunda-feira, 28 de setembro de 2026;P01;Mudança de cidade
+CANC81;3277;terça-feira, 04 de agosto de 2026;P04;Mudança de cidade
+CANC82;8268;terça-feira, 08 de setembro de 2026;P04;Mudança de cidade
+CANC83;2874;segunda-feira, 27 de julho de 2026;P01;Mudança de cidade
+CANC84;749;sexta-feira, 17 de abril de 2026;P03;Mudança de cidade
+CANC85;9817;sábado, 25 de abril de 2026;P02;Mudança de cidade
+CANC86;10524;sexta-feira, 20 de março de 2026;P02;Mudança de cidade
+CANC87;1044;sexta-feira, 19 de junho de 2026;P03;Problemas de atendimento
+CANC88;8537;sábado, 20 de junho de 2026;P01;Problemas de atendimento
+CANC89;5872;terça-feira, 24 de novembro de 2026;P02;Problemas de atendimento
+CANC90;10888;segunda-feira, 12 de janeiro de 2026;P03;Problemas de atendimento
+CANC91;5084;domingo, 15 de novembro de 2026;P01;Problemas de atendimento
+CANC92;6292;terça-feira, 08 de setembro de 2026;P01;Problemas de atendimento
+CANC93;3972;terça-feira, 22 de dezembro de 2026;P02;Outros
+CANC94;9743;segunda-feira, 05 de outubro de 2026;P03;Outros
+CANC95;2557;quinta-feira, 12 de fevereiro de 2026;P01;Outros
+CANC96;4855;sexta-feira, 20 de novembro de 2026;P01;Outros
+CANC97;1997;quarta-feira, 17 de junho de 2026;P04;Outros
+CANC98;269;quarta-feira, 14 de outubro de 2026;P02;Outros
+CANC99;2902;segunda-feira, 16 de março de 2026;P01;Outros
+CANC100;1544;quarta-feira, 25 de fevereiro de 2026;P01;Outros
+CANC101;6257;quarta-feira, 02 de setembro de 2026;P01;Outros
+CANC102;6354;domingo, 15 de novembro de 2026;P03;Outros
+CANC103;8727;quarta-feira, 02 de setembro de 2026;P03;Outros
+CANC104;2478;quinta-feira, 26 de novembro de 2026;P01;Outros
+CANC105;1891;quinta-feira, 29 de outubro de 2026;P01;Outros
+CANC106;255;quarta-feira, 02 de setembro de 2026;P04;Outros
+CANC107;3678;segunda-feira, 10 de agosto de 2026;P03;Outros
+CANC108;3312;domingo, 03 de maio de 2026;P02;Outros
+CANC109;7233;segunda-feira, 25 de maio de 2026;P03;Outros
+CANC110;9370;quarta-feira, 24 de junho de 2026;P01;Outros
+CANC111;10160;sexta-feira, 10 de julho de 2026;P01;Outros
+CANC112;11191;sábado, 21 de março de 2026;P01;Outros
+CANC113;5536;domingo, 01 de março de 2026;P01;Outros
+CANC114;3076;sexta-feira, 04 de setembro de 2026;P02;Outros
+CANC115;798;sábado, 07 de novembro de 2026;P01;Outros
+CANC116;5462;sábado, 11 de julho de 2026;P02;Outros
+CANC117;850;domingo, 17 de maio de 2026;P03;Outros
+CANC118;5529;domingo, 11 de outubro de 2026;P04;Outros
+CANC119;5272;domingo, 10 de maio de 2026;P02;Outros
+CANC120;3112;sexta-feira, 03 de abril de 2026;P01;Outros
+CANC121;10914;quinta-feira, 12 de março de 2026;P03;Outros
+CANC122;8427;segunda-feira, 07 de setembro de 2026;P01;Outros
+CANC123;6682;terça-feira, 25 de agosto de 2026;P01;Insatisfação com a academia
+CANC124;2404;quinta-feira, 26 de fevereiro de 2026;P02;Insatisfação com a academia
+CANC125;8534;sexta-feira, 22 de maio de 2026;P02;Insatisfação com a academia
+CANC126;9972;quinta-feira, 30 de abril de 2026;P01;Insatisfação com a academia
+CANC127;6431;quarta-feira, 29 de abril de 2026;P04;Insatisfação com a academia
+CANC128;9560;terça-feira, 23 de junho de 2026;P01;Insatisfação com a academia
+CANC129;176;quinta-feira, 22 de outubro de 2026;P01;Insatisfação com a academia
+CANC130;8783;terça-feira, 05 de maio de 2026;P03;Insatisfação com a academia
+CANC131;3102;quarta-feira, 02 de dezembro de 2026;P01;Insatisfação com a academia
+CANC132;5517;domingo, 25 de outubro de 2026;P01;Insatisfação com a academia
+CANC133;7235;quinta-feira, 21 de maio de 2026;P02;Insatisfação com a academia
+CANC134;6661;terça-feira, 15 de dezembro de 2026;P02;Insatisfação com a academia
+CANC135;6872;quarta-feira, 08 de abril de 2026;P02;Insatisfação com a academia
+CANC136;6299;quarta-feira, 11 de março de 2026;P02;Insatisfação com a academia
+CANC137;1570;segunda-feira, 31 de agosto de 2026;P02;Insatisfação com a academia
+CANC138;2061;quarta-feira, 10 de junho de 2026;P01;Insatisfação com a academia
+CANC139;10790;quinta-feira, 10 de setembro de 2026;P01;Insatisfação com a academia
+CANC140;1351;sexta-feira, 18 de dezembro de 2026;P02;Insatisfação com a academia
+CANC141;1857;quarta-feira, 24 de junho de 2026;P03;Insatisfação com a academia
+CANC142;4679;sábado, 04 de julho de 2026;P02;Insatisfação com a academia
+CANC143;1277;sábado, 26 de dezembro de 2026;P01;Insatisfação com a academia
+CANC144;5289;sexta-feira, 09 de janeiro de 2026;P02;Insatisfação com a academia
+CANC145;8799;segunda-feira, 19 de outubro de 2026;P02;Adesão de Gympass
+CANC146;10067;quarta-feira, 04 de fevereiro de 2026;P01;Adesão de Gympass
+CANC147;3262;quinta-feira, 25 de junho de 2026;P01;Adesão de Gympass
+CANC148;7002;sexta-feira, 10 de julho de 2026;P01;Adesão de Gympass
+CANC149;6969;segunda-feira, 07 de dezembro de 2026;P03;Adesão de Gympass
+CANC150;2920;terça-feira, 17 de março de 2026;P02;Adesão de Gympass
+CANC151;4790;quinta-feira, 25 de junho de 2026;P01;Adesão de Gympass
+CANC152;5011;quinta-feira, 19 de março de 2026;P03;Adesão de Gympass
+CANC153;3698;domingo, 13 de dezembro de 2026;P01;Adesão de Gympass
+CANC154;2437;domingo, 12 de julho de 2026;P02;Adesão de Gympass
+CANC155;3276;sábado, 17 de outubro de 2026;P01;Adesão de Gympass
+CANC156;9529;terça-feira, 10 de fevereiro de 2026;P01;Adesão de Gympass
+CANC157;6940;domingo, 24 de maio de 2026;P02;Adesão de Gympass
+CANC158;2225;domingo, 28 de junho de 2026;P01;Adesão de Gympass
+CANC159;1000;sexta-feira, 15 de maio de 2026;P02;Adesão de Gympass
+CANC160;257;sexta-feira, 02 de janeiro de 2026;P02;Adesão de Gympass
+CANC161;5300;domingo, 15 de fevereiro de 2026;P01;Adesão de Gympass
+CANC162;10381;domingo, 24 de maio de 2026;P01;Adesão de Gympass
+CANC163;4298;sábado, 01 de agosto de 2026;P01;Adesão de Gympass
+CANC164;4415;sexta-feira, 18 de dezembro de 2026;P03;Adesão de Gympass
+CANC165;607;quinta-feira, 02 de abril de 2026;P04;Adesão de Gympass
+CANC166;10102;terça-feira, 07 de julho de 2026;P01;Adesão de Gympass
+CANC167;8895;sexta-feira, 27 de março de 2026;P01;Adesão de Gympass
+CANC168;7962;domingo, 28 de junho de 2026;P01;Adesão de Gympass
+CANC169;5796;terça-feira, 31 de março de 2026;P01;Adesão de Gympass
+CANC170;6678;sexta-feira, 03 de julho de 2026;P03;Adesão de Gympass
+CANC171;11133;terça-feira, 09 de junho de 2026;P02;Adesão de Gympass
+CANC172;9121;sexta-feira, 13 de março de 2026;P03;Adesão de Gympass
+CANC173;4741;sexta-feira, 31 de julho de 2026;P02;Adesão de Gympass
+CANC174;7326;quarta-feira, 16 de dezembro de 2026;P01;Adesão de Gympass
+CANC175;10652;sábado, 27 de junho de 2026;P03;Adesão de Gympass
+CANC176;977;sexta-feira, 25 de dezembro de 2026;P02;Adesão de Gympass
+CANC177;11004;quinta-feira, 17 de dezembro de 2026;P01;Adesão de Gympass
+CANC178;3081;sexta-feira, 02 de outubro de 2026;P01;Adesão de Gympass
+CANC179;6424;sexta-feira, 20 de novembro de 2026;P01;Adesão de Gympass
+CANC180;3334;quinta-feira, 21 de maio de 2026;P02;Falta de tempo
+CANC181;10022;sábado, 13 de junho de 2026;P01;Falta de tempo
+CANC182;9671;sexta-feira, 17 de julho de 2026;P03;Falta de tempo
+CANC183;3924;quinta-feira, 14 de maio de 2026;P04;Falta de tempo
+CANC184;5892;quarta-feira, 29 de abril de 2026;P02;Falta de tempo
+CANC185;11088;terça-feira, 03 de março de 2026;P01;Falta de tempo
+CANC186;4619;sexta-feira, 25 de setembro de 2026;P02;Falta de tempo
+CANC187;9256;quinta-feira, 05 de novembro de 2026;P02;Falta de tempo
+CANC188;340;domingo, 03 de maio de 2026;P04;Falta de tempo
+CANC189;4452;domingo, 26 de abril de 2026;P02;Falta de tempo
+CANC190;8017;quarta-feira, 28 de outubro de 2026;P02;Falta de tempo
+CANC191;9592;segunda-feira, 07 de dezembro de 2026;P04;Falta de tempo
+CANC192;10177;quinta-feira, 09 de abril de 2026;P03;Falta de tempo
+CANC193;4093;segunda-feira, 04 de maio de 2026;P02;Falta de tempo
+CANC194;5121;terça-feira, 13 de outubro de 2026;P03;Falta de tempo
+CANC195;3445;quarta-feira, 11 de novembro de 2026;P03;Falta de tempo
+CANC196;7152;domingo, 04 de janeiro de 2026;P01;Falta de tempo
+CANC197;10965;segunda-feira, 03 de agosto de 2026;P01;Falta de tempo
+CANC198;1970;terça-feira, 24 de fevereiro de 2026;P01;Falta de tempo
+CANC199;3107;quinta-feira, 23 de abril de 2026;P01;Falta de tempo
+CANC200;10897;terça-feira, 01 de setembro de 2026;P02;Falta de tempo
+CANC201;2453;sexta-feira, 21 de agosto de 2026;P03;Falta de tempo
+CANC202;2698;terça-feira, 03 de fevereiro de 2026;P04;Falta de tempo
+CANC203;9707;segunda-feira, 28 de setembro de 2026;P04;Falta de tempo
+CANC204;295;terça-feira, 30 de junho de 2026;P01;Falta de tempo
+CANC205;6024;quarta-feira, 18 de fevereiro de 2026;P02;Falta de tempo
+CANC206;6409;sexta-feira, 10 de julho de 2026;P01;Falta de tempo
+CANC207;5751;sábado, 18 de julho de 2026;P01;Falta de tempo
+CANC208;9212;sexta-feira, 11 de setembro de 2026;P02;Falta de tempo
+CANC209;3265;sexta-feira, 23 de janeiro de 2026;P02;Falta de tempo
+CANC210;626;sábado, 26 de setembro de 2026;P01;Falta de tempo
+CANC211;9579;terça-feira, 09 de junho de 2026;P04;Falta de tempo
+CANC212;3025;terça-feira, 18 de agosto de 2026;P03;Falta de tempo
+CANC213;486;domingo, 31 de maio de 2026;P01;Falta de tempo
+CANC214;2488;sábado, 12 de setembro de 2026;P02;Falta de tempo
+CANC215;5991;sábado, 19 de setembro de 2026;P02;Falta de tempo
+CANC216;5899;segunda-feira, 14 de dezembro de 2026;P01;Falta de tempo
+CANC217;1081;sexta-feira, 31 de julho de 2026;P02;Falta de tempo
+CANC218;4073;domingo, 20 de setembro de 2026;P01;Falta de tempo
+CANC219;7408;quarta-feira, 09 de dezembro de 2026;P04;Falta de tempo
+CANC220;5710;sábado, 09 de maio de 2026;P04;Falta de tempo
+CANC221;3421;terça-feira, 31 de março de 2026;P01;Falta de tempo
+CANC222;3091;segunda-feira, 25 de maio de 2026;P01;Falta de tempo
+CANC223;3507;domingo, 04 de janeiro de 2026;P03;Lesão/saúde
+CANC224;8080;segunda-feira, 05 de janeiro de 2026;P01;Lesão/saúde
+CANC225;8852;quinta-feira, 08 de janeiro de 2026;P02;Lesão/saúde
+CANC226;8362;terça-feira, 29 de dezembro de 2026;P01;Lesão/saúde
+CANC227;4864;quinta-feira, 31 de dezembro de 2026;P02;Lesão/saúde
+CANC228;3099;terça-feira, 24 de novembro de 2026;P02;Lesão/saúde
+CANC229;9493;quinta-feira, 07 de maio de 2026;P01;Lesão/saúde
+CANC230;8702;quinta-feira, 07 de maio de 2026;P02;Lesão/saúde
+CANC231;25;quarta-feira, 25 de fevereiro de 2026;P03;Lesão/saúde
+CANC232;3182;sábado, 05 de setembro de 2026;P02;Lesão/saúde
+CANC233;4944;segunda-feira, 26 de outubro de 2026;P01;Lesão/saúde
+CANC234;4324;quinta-feira, 23 de abril de 2026;P02;Lesão/saúde
+CANC235;9931;sexta-feira, 20 de novembro de 2026;P02;Lesão/saúde
+CANC236;2345;terça-feira, 20 de janeiro de 2026;P01;Lesão/saúde
+CANC237;10951;segunda-feira, 08 de junho de 2026;P04;Lesão/saúde
+CANC238;3503;sábado, 17 de outubro de 2026;P01;Lesão/saúde
+CANC239;9166;segunda-feira, 14 de setembro de 2026;P03;Lesão/saúde
+CANC240;1175;sexta-feira, 19 de junho de 2026;P01;Lesão/saúde
+CANC241;7912;sábado, 24 de janeiro de 2026;P03;Lesão/saúde
+CANC242;5577;sábado, 17 de janeiro de 2026;P01;Lesão/saúde
+CANC243;8685;quarta-feira, 30 de dezembro de 2026;P02;Lesão/saúde
+CANC244;938;sábado, 21 de fevereiro de 2026;P03;Lesão/saúde
+CANC245;1911;quinta-feira, 31 de dezembro de 2026;P01;Lesão/saúde
+CANC246;9316;sábado, 03 de janeiro de 2026;P01;Lesão/saúde
+CANC247;7872;sexta-feira, 28 de agosto de 2026;P01;Lesão/saúde
+CANC248;843;sexta-feira, 26 de junho de 2026;P02;Lesão/saúde
+CANC249;17;quarta-feira, 03 de junho de 2026;P02;Lesão/saúde
+CANC250;635;domingo, 08 de março de 2026;P03;Lesão/saúde
+CANC251;1419;sábado, 12 de dezembro de 2026;P03;Lesão/saúde
+CANC252;498;sexta-feira, 26 de junho de 2026;P03;Lesão/saúde
+CANC253;624;domingo, 13 de setembro de 2026;P01;Lesão/saúde
+CANC254;773;sábado, 05 de dezembro de 2026;P02;Lesão/saúde
+CANC255;3523;domingo, 08 de fevereiro de 2026;P03;Lesão/saúde
+CANC256;2995;terça-feira, 29 de dezembro de 2026;P01;Lesão/saúde
+CANC257;1491;quinta-feira, 10 de dezembro de 2026;P02;Lesão/saúde
+CANC258;2410;sábado, 23 de maio de 2026;P01;Lesão/saúde
+CANC259;10711;sábado, 01 de agosto de 2026;P01;Lesão/saúde
+CANC260;6383;domingo, 05 de julho de 2026;P02;Lesão/saúde
+CANC261;3010;domingo, 08 de novembro de 2026;P01;Lesão/saúde
+CANC262;5718;domingo, 01 de março de 2026;P01;Lesão/saúde
+CANC263;8601;sexta-feira, 13 de novembro de 2026;P03;Lesão/saúde
+CANC264;922;domingo, 13 de setembro de 2026;P04;Lesão/saúde
+CANC265;8375;quarta-feira, 23 de setembro de 2026;P04;Lesão/saúde
+CANC266;9262;domingo, 14 de junho de 2026;P01;Lesão/saúde
+CANC267;5304;domingo, 17 de maio de 2026;P04;Lesão/saúde
+CANC268;5524;terça-feira, 17 de fevereiro de 2026;P03;Lesão/saúde
+CANC269;10708;sexta-feira, 27 de fevereiro de 2026;P01;Lesão/saúde
+CANC270;10236;terça-feira, 06 de janeiro de 2026;P02;Lesão/saúde
+CANC271;1212;segunda-feira, 30 de março de 2026;P03;Lesão/saúde
+CANC272;8911;sábado, 06 de junho de 2026;P02;Preço alto
+CANC273;538;domingo, 27 de dezembro de 2026;P01;Preço alto
+CANC274;1361;quarta-feira, 24 de junho de 2026;P01;Preço alto
+CANC275;1109;domingo, 05 de julho de 2026;P01;Preço alto
+CANC276;5010;terça-feira, 17 de novembro de 2026;P03;Preço alto
+CANC277;8858;terça-feira, 29 de setembro de 2026;P04;Preço alto
+CANC278;11039;quarta-feira, 06 de maio de 2026;P03;Preço alto
+CANC279;2793;terça-feira, 29 de dezembro de 2026;P02;Preço alto
+CANC280;7736;terça-feira, 22 de dezembro de 2026;P03;Preço alto
+CANC281;380;sábado, 29 de agosto de 2026;P02;Preço alto
+CANC282;577;sexta-feira, 24 de abril de 2026;P02;Preço alto
+CANC283;4122;segunda-feira, 13 de abril de 2026;P01;Preço alto
+CANC284;2407;quarta-feira, 26 de agosto de 2026;P01;Preço alto
+CANC285;347;quarta-feira, 07 de outubro de 2026;P02;Preço alto
+CANC286;8514;segunda-feira, 09 de novembro de 2026;P01;Preço alto
+CANC287;8213;sexta-feira, 03 de julho de 2026;P02;Preço alto
+CANC288;5181;quarta-feira, 19 de agosto de 2026;P01;Preço alto
+CANC289;7250;domingo, 15 de fevereiro de 2026;P02;Preço alto
+CANC290;9725;sábado, 10 de outubro de 2026;P01;Preço alto
+CANC291;2552;sexta-feira, 18 de dezembro de 2026;P04;Preço alto
+CANC292;8334;domingo, 28 de junho de 2026;P02;Preço alto
+CANC293;1717;sexta-feira, 14 de agosto de 2026;P03;Preço alto
+CANC294;618;segunda-feira, 30 de março de 2026;P01;Preço alto
+CANC295;7019;quinta-feira, 18 de junho de 2026;P02;Preço alto
+CANC296;2245;segunda-feira, 09 de fevereiro de 2026;P02;Preço alto
+CANC297;10681;quinta-feira, 08 de janeiro de 2026;P02;Preço alto
+CANC298;4055;terça-feira, 06 de outubro de 2026;P02;Preço alto
+CANC299;10742;domingo, 15 de novembro de 2026;P02;Preço alto
+CANC300;8015;quarta-feira, 11 de fevereiro de 2026;P01;Preço alto
+CANC301;10311;domingo, 12 de abril de 2026;P02;Preço alto
+CANC302;5286;sábado, 31 de janeiro de 2026;P01;Preço alto
+CANC303;7446;quarta-feira, 10 de junho de 2026;P02;Preço alto
+CANC304;591;terça-feira, 08 de dezembro de 2026;P03;Preço alto
+CANC305;2937;domingo, 09 de agosto de 2026;P02;Preço alto
+CANC306;4769;sexta-feira, 13 de março de 2026;P04;Preço alto
+CANC307;9336;sexta-feira, 24 de abril de 2026;P04;Preço alto
+CANC308;9381;segunda-feira, 12 de janeiro de 2026;P02;Preço alto
+CANC309;7011;terça-feira, 20 de outubro de 2026;P03;Mudança de cidade
+CANC310;8605;terça-feira, 10 de março de 2026;P04;Mudança de cidade
+CANC311;1406;quinta-feira, 01 de outubro de 2026;P04;Mudança de cidade
+CANC312;361;quinta-feira, 05 de março de 2026;P01;Mudança de cidade
+CANC313;10144;segunda-feira, 28 de dezembro de 2026;P03;Mudança de cidade
+CANC314;10779;domingo, 22 de fevereiro de 2026;P02;Mudança de cidade
+CANC315;4656;quarta-feira, 14 de janeiro de 2026;P02;Mudança de cidade
+CANC316;7495;segunda-feira, 21 de setembro de 2026;P03;Mudança de cidade
+CANC317;4198;domingo, 08 de fevereiro de 2026;P01;Mudança de cidade
+CANC318;10530;domingo, 26 de julho de 2026;P01;Mudança de cidade
+CANC319;10659;quinta-feira, 06 de agosto de 2026;P02;Mudança de cidade
+CANC320;2461;segunda-feira, 14 de dezembro de 2026;P02;Mudança de cidade
+CANC321;368;terça-feira, 29 de dezembro de 2026;P03;Mudança de cidade
+CANC322;9938;sábado, 08 de agosto de 2026;P01;Mudança de cidade
+CANC323;3388;sexta-feira, 31 de julho de 2026;P02;Mudança de cidade
+CANC324;1162;sexta-feira, 20 de novembro de 2026;P02;Mudança de cidade
+CANC325;3427;domingo, 13 de setembro de 2026;P04;Mudança de cidade
+CANC326;10133;terça-feira, 11 de agosto de 2026;P02;Mudança de cidade
+CANC327;2945;domingo, 11 de janeiro de 2026;P01;Mudança de cidade
+CANC328;4220;segunda-feira, 17 de agosto de 2026;P01;Mudança de cidade
+CANC329;7300;terça-feira, 08 de setembro de 2026;P03;Mudança de cidade
+CANC330;6398;terça-feira, 30 de junho de 2026;P04;Mudança de cidade
+CANC331;2625;domingo, 03 de maio de 2026;P02;Mudança de cidade
+CANC332;8773;quinta-feira, 21 de maio de 2026;P04;Mudança de cidade
+CANC333;702;quinta-feira, 01 de janeiro de 2026;P02;Mudança de cidade
+CANC334;8754;sábado, 15 de agosto de 2026;P01;Mudança de cidade
+CANC335;4483;terça-feira, 24 de novembro de 2026;P01;Mudança de cidade
+CANC336;3197;domingo, 13 de dezembro de 2026;P03;Mudança de cidade
+CANC337;10913;sexta-feira, 03 de abril de 2026;P01;Mudança de cidade
+CANC338;6181;sexta-feira, 29 de maio de 2026;P01;Mudança de cidade
+CANC339;7875;domingo, 01 de fevereiro de 2026;P01;Mudança de cidade
+CANC340;2968;sábado, 08 de agosto de 2026;P02;Mudança de cidade
+CANC341;9483;sexta-feira, 22 de maio de 2026;P02;Mudança de cidade
+CANC342;5231;quinta-feira, 26 de março de 2026;P01;Mudança de cidade
+CANC343;4042;quinta-feira, 23 de julho de 2026;P03;Mudança de cidade
+CANC344;7734;quinta-feira, 26 de março de 2026;P01;Mudança de cidade
+CANC345;7437;domingo, 04 de janeiro de 2026;P01;Mudança de cidade
+CANC346;9930;sábado, 28 de novembro de 2026;P01;Mudança de cidade
+CANC347;7004;sábado, 05 de setembro de 2026;P03;Mudança de cidade
+CANC348;2066;sexta-feira, 07 de agosto de 2026;P01;Mudança de cidade
+CANC349;6246;sexta-feira, 06 de março de 2026;P01;Adesão de Gympass
+CANC350;8420;sexta-feira, 21 de agosto de 2026;P02;Adesão de Gympass
+CANC351;5077;domingo, 22 de novembro de 2026;P01;Adesão de Gympass
+CANC352;2829;terça-feira, 26 de maio de 2026;P03;Adesão de Gympass
+CANC353;2886;quinta-feira, 09 de julho de 2026;P02;Adesão de Gympass
+CANC354;9503;sábado, 19 de setembro de 2026;P03;Adesão de Gympass
+CANC355;10095;quinta-feira, 28 de maio de 2026;P01;Adesão de Gympass
+CANC356;7881;sexta-feira, 23 de janeiro de 2026;P01;Adesão de Gympass
+CANC357;5314;terça-feira, 19 de maio de 2026;P02;Adesão de Gympass
+CANC358;492;sexta-feira, 31 de julho de 2026;P02;Adesão de Gympass
+CANC359;1241;sábado, 21 de novembro de 2026;P02;Adesão de Gympass
+CANC360;6963;domingo, 25 de janeiro de 2026;P01;Adesão de Gympass
+CANC361;194;terça-feira, 29 de setembro de 2026;P01;Adesão de Gympass
+CANC362;3725;quarta-feira, 21 de janeiro de 2026;P01;Adesão de Gympass
+CANC363;7787;sábado, 14 de novembro de 2026;P03;Adesão de Gympass
+CANC364;503;terça-feira, 26 de maio de 2026;P04;Adesão de Gympass
+CANC365;13;sábado, 28 de fevereiro de 2026;P04;Adesão de Gympass
+CANC366;8722;sexta-feira, 22 de maio de 2026;P01;Adesão de Gympass
+CANC367;2868;domingo, 18 de janeiro de 2026;P02;Adesão de Gympass
+CANC368;6183;sexta-feira, 24 de julho de 2026;P01;Adesão de Gympass
+CANC369;9739;sábado, 30 de maio de 2026;P03;Adesão de Gympass
+CANC370;125;domingo, 25 de janeiro de 2026;P04;Adesão de Gympass
+CANC371;6694;sexta-feira, 23 de janeiro de 2026;P01;Adesão de Gympass
+CANC372;2715;segunda-feira, 05 de janeiro de 2026;P02;Adesão de Gympass
+CANC373;2457;domingo, 04 de janeiro de 2026;P02;Adesão de Gympass
+CANC374;10648;terça-feira, 05 de maio de 2026;P01;Adesão de Gympass
+CANC375;5802;quinta-feira, 12 de março de 2026;P01;Adesão de Gympass
+CANC376;1715;domingo, 06 de dezembro de 2026;P03;Adesão de Gympass
+CANC377;2961;segunda-feira, 07 de setembro de 2026;P03;Adesão de Gympass
+CANC378;4149;sexta-feira, 08 de maio de 2026;P01;Adesão de Gympass
+CANC379;7186;quarta-feira, 04 de março de 2026;P04;Adesão de Gympass
+CANC380;6230;terça-feira, 03 de fevereiro de 2026;P02;Adesão de Gympass
+CANC381;10552;terça-feira, 17 de março de 2026;P02;Adesão de Gympass
+CANC382;1710;sexta-feira, 23 de janeiro de 2026;P02;Adesão de Gympass
+CANC383;9507;quinta-feira, 29 de janeiro de 2026;P03;Adesão de Gympass
+CANC384;1907;segunda-feira, 07 de setembro de 2026;P02;Adesão de Gympass
+CANC385;4437;quarta-feira, 22 de abril de 2026;P03;Adesão de Gympass
+CANC386;1518;sábado, 14 de fevereiro de 2026;P02;Adesão de Gympass
+CANC387;6460;quarta-feira, 08 de abril de 2026;P03;Adesão de Gympass
+CANC388;433;domingo, 29 de novembro de 2026;P02;Adesão de Gympass
+CANC389;898;terça-feira, 06 de outubro de 2026;P03;Adesão de Gympass
+CANC390;7540;segunda-feira, 09 de fevereiro de 2026;P03;Adesão de Gympass
+CANC391;3478;domingo, 20 de dezembro de 2026;P02;Adesão de Gympass
+CANC392;1118;quinta-feira, 07 de maio de 2026;P02;Adesão de Gympass
+CANC393;5823;segunda-feira, 04 de maio de 2026;P04;Adesão de Gympass
+CANC394;9220;quarta-feira, 16 de setembro de 2026;P01;Adesão de Gympass
+CANC395;7699;quinta-feira, 26 de novembro de 2026;P02;Adesão de Gympass
+CANC396;5846;sábado, 23 de maio de 2026;P01;Adesão de Gympass
+CANC397;10476;sexta-feira, 28 de agosto de 2026;P01;Adesão de Gympass
+CANC398;3153;quinta-feira, 16 de julho de 2026;P01;Adesão de Gympass
+CANC399;8210;sexta-feira, 27 de março de 2026;P02;Adesão de Gympass
+CANC400;6690;quinta-feira, 12 de fevereiro de 2026;P02;Adesão de Gympass
+CANC401;5939;segunda-feira, 25 de maio de 2026;P02;Adesão de Gympass
+CANC402;2877;sábado, 04 de julho de 2026;P02;Adesão de Gympass
+CANC403;202;terça-feira, 20 de outubro de 2026;P02;Adesão de Gympass
+CANC404;7030;segunda-feira, 30 de novembro de 2026;P02;Adesão de Gympass
+CANC405;2428;quinta-feira, 09 de julho de 2026;P03;Adesão de Gympass
+CANC406;1031;segunda-feira, 27 de julho de 2026;P01;Adesão de Gympass
+CANC407;7313;domingo, 12 de abril de 2026;P01;Adesão de Gympass
+CANC408;4698;sábado, 26 de setembro de 2026;P02;Adesão de Gympass
+CANC409;7187;segunda-feira, 12 de janeiro de 2026;P02;Adesão de Gympass
+CANC410;1734;domingo, 15 de março de 2026;P02;Adesão de Gympass
+CANC411;4548;terça-feira, 01 de setembro de 2026;P01;Adesão de Gympass
+CANC412;10241;sexta-feira, 16 de outubro de 2026;P01;Adesão de Gympass
+CANC413;11121;quarta-feira, 13 de maio de 2026;P03;Adesão de Gympass
+CANC414;9384;sexta-feira, 11 de dezembro de 2026;P02;Falta de tempo
+CANC415;2930;domingo, 06 de dezembro de 2026;P02;Falta de tempo
+CANC416;199;terça-feira, 27 de janeiro de 2026;P01;Falta de tempo
+CANC417;332;quinta-feira, 22 de janeiro de 2026;P03;Falta de tempo
+CANC418;3009;terça-feira, 20 de outubro de 2026;P01;Falta de tempo
+CANC419;9284;quinta-feira, 18 de junho de 2026;P02;Falta de tempo
+CANC420;7807;terça-feira, 13 de outubro de 2026;P02;Falta de tempo
+CANC421;4713;sexta-feira, 20 de fevereiro de 2026;P02;Falta de tempo
+CANC422;1411;quarta-feira, 25 de novembro de 2026;P01;Falta de tempo
+CANC423;8151;sexta-feira, 27 de novembro de 2026;P01;Falta de tempo
+CANC424;1542;terça-feira, 22 de setembro de 2026;P02;Falta de tempo
+CANC425;8299;domingo, 30 de agosto de 2026;P01;Falta de tempo
+CANC426;2261;domingo, 25 de janeiro de 2026;P01;Falta de tempo
+CANC427;2371;segunda-feira, 10 de agosto de 2026;P03;Falta de tempo
+CANC428;7106;quarta-feira, 02 de setembro de 2026;P01;Falta de tempo
+CANC429;8687;terça-feira, 27 de janeiro de 2026;P03;Falta de tempo
+CANC430;3139;sexta-feira, 02 de outubro de 2026;P01;Falta de tempo
+CANC431;716;quarta-feira, 25 de março de 2026;P02;Falta de tempo
+CANC432;3194;segunda-feira, 27 de abril de 2026;P01;Falta de tempo
+CANC433;1378;sábado, 05 de setembro de 2026;P02;Falta de tempo
+CANC434;10032;sábado, 13 de junho de 2026;P03;Falta de tempo
+CANC435;895;sábado, 15 de agosto de 2026;P02;Falta de tempo
+CANC436;1456;terça-feira, 19 de maio de 2026;P02;Falta de tempo
+CANC437;8890;quarta-feira, 30 de dezembro de 2026;P02;Falta de tempo
+CANC438;7143;domingo, 06 de dezembro de 2026;P02;Falta de tempo
+CANC439;7842;quinta-feira, 31 de dezembro de 2026;P03;Falta de tempo
+CANC440;10968;quarta-feira, 03 de junho de 2026;P02;Falta de tempo
+CANC441;8779;domingo, 11 de outubro de 2026;P02;Falta de tempo
+CANC442;4137;domingo, 15 de março de 2026;P01;Falta de tempo
+CANC443;11178;segunda-feira, 03 de agosto de 2026;P01;Falta de tempo
+CANC444;833;segunda-feira, 01 de junho de 2026;P04;Falta de tempo
+CANC445;6715;sábado, 26 de dezembro de 2026;P02;Falta de tempo
+CANC446;5734;sexta-feira, 27 de fevereiro de 2026;P01;Falta de tempo
+CANC447;5955;segunda-feira, 15 de junho de 2026;P01;Falta de tempo
+CANC448;2535;sexta-feira, 17 de julho de 2026;P01;Falta de tempo
+CANC449;3759;domingo, 29 de novembro de 2026;P03;Falta de tempo
+CANC450;4099;domingo, 05 de abril de 2026;P01;Falta de tempo
+CANC451;1501;terça-feira, 15 de setembro de 2026;P02;Falta de tempo
+CANC452;8832;domingo, 24 de maio de 2026;P02;Falta de tempo
+CANC453;263;domingo, 11 de janeiro de 2026;P01;Falta de tempo
+CANC454;7494;domingo, 15 de fevereiro de 2026;P02;Falta de tempo
+CANC455;7321;segunda-feira, 14 de setembro de 2026;P01;Falta de tempo
+CANC456;6906;domingo, 04 de outubro de 2026;P01;Falta de tempo
+CANC457;9;domingo, 11 de outubro de 2026;P04;Falta de tempo
+CANC458;8737;quarta-feira, 30 de dezembro de 2026;P01;Falta de tempo
+CANC459;7124;sábado, 21 de março de 2026;P04;Falta de tempo
+CANC460;6233;sexta-feira, 21 de agosto de 2026;P03;Falta de tempo
+CANC461;6201;quarta-feira, 16 de setembro de 2026;P03;Falta de tempo
+CANC462;10525;quarta-feira, 29 de julho de 2026;P01;Falta de tempo
+CANC463;2546;quarta-feira, 23 de setembro de 2026;P01;Falta de tempo
+CANC464;67;quinta-feira, 15 de outubro de 2026;P04;Falta de tempo
+CANC465;1745;quinta-feira, 08 de outubro de 2026;P01;Falta de tempo
+CANC466;5519;quarta-feira, 29 de abril de 2026;P01;Falta de tempo
+CANC467;2565;terça-feira, 07 de abril de 2026;P01;Falta de tempo
+CANC468;1328;quinta-feira, 12 de novembro de 2026;P02;Falta de tempo
+CANC469;3711;sábado, 11 de abril de 2026;P01;Falta de tempo
+CANC470;4023;sábado, 18 de julho de 2026;P03;Falta de tempo
+CANC471;5081;segunda-feira, 19 de outubro de 2026;P01;Falta de tempo
+CANC472;4390;sexta-feira, 23 de outubro de 2026;P03;Falta de tempo
+CANC473;979;segunda-feira, 13 de julho de 2026;P03;Falta de tempo
+CANC474;2736;sábado, 24 de janeiro de 2026;P03;Falta de tempo
+CANC475;4550;terça-feira, 20 de outubro de 2026;P01;Falta de tempo
+CANC476;3855;sábado, 15 de agosto de 2026;P01;Falta de tempo
+CANC477;10203;terça-feira, 04 de agosto de 2026;P01;Falta de tempo
+CANC478;4047;quarta-feira, 20 de maio de 2026;P02;Falta de tempo
+CANC479;954;terça-feira, 07 de abril de 2026;P01;Falta de tempo
+CANC480;4796;terça-feira, 03 de março de 2026;P01;Falta de tempo
+CANC481;988;terça-feira, 17 de novembro de 2026;P01;Falta de tempo
+CANC482;10562;segunda-feira, 06 de abril de 2026;P01;Falta de tempo
+CANC483;1362;quarta-feira, 04 de fevereiro de 2026;P01;Falta de tempo
+CANC484;5125;quinta-feira, 23 de abril de 2026;P01;Falta de tempo
+CANC485;1915;quinta-feira, 05 de fevereiro de 2026;P01;Falta de tempo
+CANC486;3599;sexta-feira, 07 de agosto de 2026;P03;Falta de tempo

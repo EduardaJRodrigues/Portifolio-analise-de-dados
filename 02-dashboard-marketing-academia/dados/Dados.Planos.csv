@@ -1,0 +1,5 @@
+id_plano;Plano;Duração;Valor Mensal
+P01;Básico;Mensal;89,9
+P02;Plus;Mensal;129,9
+P03;Premium;Mensal;179,9
+P04;Anual;12 meses;999,9
