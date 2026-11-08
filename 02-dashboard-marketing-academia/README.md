@@ -55,21 +55,31 @@ Ferramentas utilizadas
 
 Dashboard
 
+
 Visão Geral
+
 ![Visão Geral](imagens/visao-geral.png)
 
 
+
 Perfil do Cliente
+
 ![Perfil do Cliente](imagens/perfil-cliente.png)
 
 
+
 Desempenho das Campanhas
+
 ![Desempenho das Campanhas](imagens/desempenho-campanha.png)
 
 
+
 Planos
+
 ![Planos](imagens/planos.png)
 
 
+
 Cancelamentos
+
 ![Cancelamentos](imagens/relatorio-cancelamento.png)
